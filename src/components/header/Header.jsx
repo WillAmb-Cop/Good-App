@@ -14,10 +14,10 @@ export const Header = () => {
                 <h5 className='text-light'>Network Engineer</h5>
                 <CTA/>
                 <HeaderSocial/>
-                <div className='my_image'>
-                    <img src={me} alt='my'/>
+                <div className='me'>
+                    <img src={me} alt='W'/>
                 </div>
-                <a href='#contact' className='scroll__down'>Scroll down</a>
+                <a href='#contact' className='scroll__down'>Scroll Down</a>
                 
             </div>
         </header>

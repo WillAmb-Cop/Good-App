@@ -1,7 +1,9 @@
 import React from 'react'
-
-export default function services() {
+import './services.css'
+const Services = () => {
   return (
-    <div>services</div>
+    <section id= 'service'>Services</section>
   )
 }
+
+export default Services

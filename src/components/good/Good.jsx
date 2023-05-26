@@ -1,7 +1,9 @@
 import React from 'react'
-
-export default function good() {
+import './good.css'
+const Good = () => {
   return (
-    <div>good</div>
+    <section id='good'>Good</section>
   )
 }
+
+export default Good
