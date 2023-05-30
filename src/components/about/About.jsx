@@ -13,7 +13,7 @@ const About = () => {
 
       <div className= "container about__container">
         <div className= "about__me">
-          <div className="about__me image image">
+          <div className="about__me-image">
             <img src ={Coat} alt="About image"/>
           </div>
 
@@ -25,14 +25,14 @@ const About = () => {
               <h5>Experience</h5>
               <small>3+ years of work</small>
             </articles>
-            <p></p>
+            
 
             <articles className="about__card">
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>200+ WorldWide</small>
             </articles>
-            <p></p>
+           
             <articles className="about__card">
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
@@ -42,9 +42,11 @@ const About = () => {
 
 
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-            Pariatur, vel dignissimos dolore blanditiis laudantium dolores eius ut ipsa omnis.
-             Nobis vitae dicta delectus laudantium aut cum cupiditate dolorum autem neque.
+           I am a young hard working network engineer studying at the prestigeous Faculty of Engineering and Technology (FET) of the University of Buea.
+           By God's grace I will be graduating in the year 2025 with a first class honor GPA. Iam also taking some online training
+           on cybersecurity with the aim of being the best cybersecurity analyst ever. I had my A-Level certificate in the year 2021 
+           in the city of Douala where I grew up and got my perfection in the french speaking skills hence I can express myself both
+           in english and french fluently
           </p>
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
         </div>

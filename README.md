@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## NAME: NEBA PRINCEWILL
 ## MATRICULE: FE21A251
 
@@ -71,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+NAME: NEBA PRINCEWILL AMBE
+MATRICULE: FE21A251
+>>>>>>> 52141e8232aaea25845edd1252c95441d082a926

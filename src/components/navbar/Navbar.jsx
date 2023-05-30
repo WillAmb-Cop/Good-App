@@ -16,7 +16,7 @@ const Navbar = () => {
       className= {activeNavbar === '#about' ? 'active' : ''}><AiOutlineUser/></a>
       <a href="#experience" oneClick={() => setActiveNavbar ('#')}
       className= {activeNavbar === '#experience' ? 'active' : ''}><BiBook/></a>
-      <a href="#services"oneClick={() => setActiveNavbar ('#')}
+      <a href="#services" oneClick={() => setActiveNavbar ('#')}
       className= {activeNavbar === '#services' ? 'active' : ''}><RiServiceLine/></a>
       <a href="#contact"oneClick={() => setActiveNavbar ('#')}
       className= {activeNavbar === '#contact' ? 'active' : ''}><MdContacts/></a>
