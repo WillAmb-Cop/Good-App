@@ -18,7 +18,8 @@ const Testimonial = () => {
         <article className="testimonial">
           <div className="client__avatar">
             <img src={AV1} alt="avatar-one"/>
-            <h5 className="client__name">Ernerst Achiever</h5>
+          </div>
+          <h5 className="client__name">Spachelle Brinda</h5>
             <small classNam='client__review'>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Architecto unde reiciendis, aperiam eos voluptas voluptatem sit a eveniet voluptates!
@@ -28,13 +29,14 @@ const Testimonial = () => {
               Cumque autem nesciunt illo earum! Officia dicta explicabo voluptatem? Ducimus recusandae ipsam quas voluptates, perferendis totam distinctio odio, impedit voluptatibus adipisci a mollitia
               Eveniet incidunt voluptate provident numquam, dicta id dolorem doloribus tenetur necessitatibus blanditiis repudiandae at autem. Assumenda modi eveniet atque omnis ipsum dolore ad autem mollitia vitae, animi, quaerat unde sapiente debitis nam inventore.
             </small>
-          </div>
+          
         </article>
 
         <article className="testimonial">
           <div className="client__avatar">
-            <img src={AV2} alt="avatar-one"/>
-            <h5 className="client__name">Ernerst Achiever</h5>
+          <img src={AV2} alt="avatar-one"/>
+          </div>
+          <h5 className="client__name">Liza Patricia</h5>
             <small classNam='client__review'>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Architecto unde reiciendis, aperiam eos voluptas voluptatem sit a eveniet voluptates!
@@ -44,13 +46,13 @@ const Testimonial = () => {
               Cumque autem nesciunt illo earum! Officia dicta explicabo voluptatem? Ducimus recusandae ipsam quas voluptates, perferendis totam distinctio odio, impedit voluptatibus adipisci a mollitia
               Eveniet incidunt voluptate provident numquam, dicta id dolorem doloribus tenetur necessitatibus blanditiis repudiandae at autem. Assumenda modi eveniet atque omnis ipsum dolore ad autem mollitia vitae, animi, quaerat unde sapiente debitis nam inventore.
             </small>
-          </div>
         </article>
 
         <article className="testimonial">
           <div className="client__avatar">
-            <img src={AV3} alt="avatar-one"/>
-            <h5 className="client__name">Ernerst Achiever</h5>
+          <img src={AV3} alt="avatar-one"/>
+          </div>
+          <h5 className="client__name">Brice Ronda</h5>
             <small classNam='client__review'>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Architecto unde reiciendis, aperiam eos voluptas voluptatem sit a eveniet voluptates!
@@ -60,13 +62,14 @@ const Testimonial = () => {
               Cumque autem nesciunt illo earum! Officia dicta explicabo voluptatem? Ducimus recusandae ipsam quas voluptates, perferendis totam distinctio odio, impedit voluptatibus adipisci a mollitia
               Eveniet incidunt voluptate provident numquam, dicta id dolorem doloribus tenetur necessitatibus blanditiis repudiandae at autem. Assumenda modi eveniet atque omnis ipsum dolore ad autem mollitia vitae, animi, quaerat unde sapiente debitis nam inventore.
             </small>
-          </div>
+          
         </article>
 
         <article className="testimonial">
           <div className="client__avatar">
-            <img src={AV4} alt="avatar-one"/>
-            <h5 className="client__name">Ernerst Achiever</h5>
+          <img src={AV4} alt="avatar-one"/>
+          </div>
+            <h5 className="client__name">Deumanou</h5>
             <small classNam='client__review'>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Architecto unde reiciendis, aperiam eos voluptas voluptatem sit a eveniet voluptates!
@@ -76,12 +79,12 @@ const Testimonial = () => {
               Cumque autem nesciunt illo earum! Officia dicta explicabo voluptatem? Ducimus recusandae ipsam quas voluptates, perferendis totam distinctio odio, impedit voluptatibus adipisci a mollitia
               Eveniet incidunt voluptate provident numquam, dicta id dolorem doloribus tenetur necessitatibus blanditiis repudiandae at autem. Assumenda modi eveniet atque omnis ipsum dolore ad autem mollitia vitae, animi, quaerat unde sapiente debitis nam inventore.
             </small>
-          </div>
         </article>
-
+        
         <article className="testimonial">
           <div className="client__avatar">
-            <img src={AV5} alt="avatar-one"/>
+          <img src={AV5} alt="avatar-one"/>
+          </div>
             <h5 className="client__name">Ernerst Achiever</h5>
             <small classNam='client__review'>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -92,7 +95,6 @@ const Testimonial = () => {
               Cumque autem nesciunt illo earum! Officia dicta explicabo voluptatem? Ducimus recusandae ipsam quas voluptates, perferendis totam distinctio odio, impedit voluptatibus adipisci a mollitia
               Eveniet incidunt voluptate provident numquam, dicta id dolorem doloribus tenetur necessitatibus blanditiis repudiandae at autem. Assumenda modi eveniet atque omnis ipsum dolore ad autem mollitia vitae, animi, quaerat unde sapiente debitis nam inventore.
             </small>
-          </div>
         </article>
       </div>
     </section>
