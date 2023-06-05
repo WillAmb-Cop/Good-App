@@ -46,7 +46,11 @@
     font-size: 0.9rem;
 }
 
+<<<<<<< HEAD
 @media screen and(max width: 1024px) {
+=======
+@media screen and(maxwidth: 1024px) {
+>>>>>>> a5c6769bf405854c0887c9e525d5bfa101bbea29
   .services__container{
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
@@ -57,7 +61,11 @@
   }
 }
 
+<<<<<<< HEAD
   @media screen and(max width 600px) {
+=======
+  @media screen and(maxwidth: 600px) {
+>>>>>>> a5c6769bf405854c0887c9e525d5bfa101bbea29
     .service__container{
         grid-template-columns: 1fr;
         gap: 1.5rem;
