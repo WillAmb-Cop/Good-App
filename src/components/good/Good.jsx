@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-import React from 'react'
-=======
->>>>>>> a5c6769bf405854c0887c9e525d5bfa101bbea29
+import React from'react'
 import './good.css'
 import img1 from './../../assets/photo_4.1.jpg'
 import img2 from './../../assets/photo_6.jpg'

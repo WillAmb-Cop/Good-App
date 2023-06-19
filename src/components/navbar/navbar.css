@@ -19,11 +19,11 @@ navbar a{
     padding: 0.9rem;
     border-radius: 50%;
     display: flex;
-<<<<<<< HEAD
+
     color: var(--color-white);
-=======
+
     color: var(--color-light);
->>>>>>> a5c6769bf405854c0887c9e525d5bfa101bbea29
+
     font-size: 1.1rem;
 }
 

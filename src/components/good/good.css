@@ -1,20 +1,12 @@
 .portfolio__container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-<<<<<<< HEAD
-    gap: 1.5rem;
-=======
-    gap: 2.5rem;
->>>>>>> a5c6769bf405854c0887c9e525d5bfa101bbea29
+    gap:2.5rem;
 }
 
 .portfolio__item{
     background: var(--color-bg-variant);
-<<<<<<< HEAD
-    padding: 1.0rem;
-=======
-    padding: 1.3rem;
->>>>>>> a5c6769bf405854c0887c9e525d5bfa101bbea29
+    padding:1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -47,14 +39,14 @@
 }
 
 
-@media screen and(maxwidth: 1024px) {
+@media screen and(max-width: 1024px) {
     .portfolio__container{
 grid-template-columns: 1fr 1fr;
 gap: 1.2rem;
     }
   }
-  
-    @media screen and(maxwidth: 600px) {
+
+    @media screen and(max-width: 600px) {
       .portfolio__container{
           grid-template-columns: 1fr;
           gap: 1rem;
