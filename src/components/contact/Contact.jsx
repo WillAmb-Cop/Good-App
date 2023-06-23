@@ -29,20 +29,20 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option__icon" />
             <h4>Email</h4>
-            <h5>suzyndatewo@gmail.com</h5>
-            <a href="mailto:suzyndatewo@gmail.com" target="_blank">
+            <h5>nebaprincewill237@gmail.com</h5>
+            <a href="mailto:nebaprincewill237@gmail@gmail.com" target="_blank">
               send a message
             </a>
           </article>
 
           <article className="contact__option">
             <AiOutlineTwitter className="contact__option__icon" />
-            <h4>Twitter</h4> <h5>Profile</h5>
+            <h4>LinkedIn</h4> <h5>Profile</h5>
             <a
-              href="https://www.twitter/Suzydatewo"
+              href="https://www.linkedin.com/feed/"
               target="_blank"
             >
-              Tape me on Twitter
+              Tape me on LinkedIn
             </a>
           </article>
 
@@ -50,7 +50,7 @@ const Contact = () => {
             <BsWhatsapp className="contact__option__icon" />
             <h4>Whatsapp</h4> <h5>Direct message</h5>
             <a
-              href="https://web.whatsapp.com/send?phone=+237650398429"
+              href="https://web.whatsapp.com/send?phone=+237657395579"
               target="_blank"
             >
               Whatsapp me
